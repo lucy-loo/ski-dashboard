@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-04T22:13:00+08:00",
+  "currency": "CNY",
+  "observations": [
+    {
+      "category": "ucpa",
+      "series": "tignes",
+      "checkedAt": "2026-09-29",
+      "priceCny": null,
+      "originalPrice": 1216,
+      "originalCurrency": "EUR",
+      "trendEligible": false,
+      "note": "团体报价；不作为个人零售趋势点"
+    },
+    {
+      "category": "ucpa",
+      "series": "val_disere",
+      "checkedAt": "2026-09-29",
+      "priceCny": 10300,
+      "originalPrice": null,
+      "originalCurrency": null,
+      "trendEligible": true,
+      "note": "此前监控确认的目标周可用趋势报价"
+    },
+    {
+      "category": "flight",
+      "series": "shanghai",
+      "checkedAt": null,
+      "priceCny": 4747,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "trendEligible": false,
+      "note": "旧监控参考价；日期不完全匹配目标行程"
+    },
+    {
+      "category": "flight",
+      "series": "shanghai",
+      "checkedAt": null,
+      "priceCny": 7800,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "trendEligible": false,
+      "note": "旧监控参考价；日期不完全匹配目标行程"
+    },
+    {
+      "category": "flight",
+      "series": "hangzhou",
+      "checkedAt": null,
+      "priceCny": 7257,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "trendEligible": false,
+      "note": "旧监控参考价；日期不完全匹配目标行程"
+    },
+    {
+      "category": "flight",
+      "series": "hangzhou",
+      "checkedAt": null,
+      "priceCny": 5779,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "trendEligible": false,
+      "note": "旧监控参考价；日期不完全匹配目标行程"
+    }
+  ]
+}
