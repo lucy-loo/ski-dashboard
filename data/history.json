@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T22:13:00+08:00",
+  "updatedAt": "2026-10-24T09:29:21+08:00",
   "currency": "CNY",
   "observations": [
     {
@@ -20,8 +20,8 @@
       "priceCny": 10300,
       "originalPrice": null,
       "originalCurrency": null,
-      "trendEligible": true,
-      "note": "此前监控确认的目标周可用趋势报价"
+      "trendEligible": false,
+      "note": "此前监控确认的目标周可用趋势报价；2026-10-24核查：缺少班期、预订来源及当前个人库存凭证，按严格趋势规则降级为非合格历史参考。"
     },
     {
       "category": "flight",
@@ -62,6 +62,70 @@
       "originalCurrency": "CNY",
       "trendEligible": false,
       "note": "旧监控参考价；日期不完全匹配目标行程"
+    },
+    {
+      "category": "ucpa",
+      "checkedAt": "2026-10-24T09:29:21+08:00",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-13",
+      "trendEligible": false,
+      "series": "tignes",
+      "priceCny": 10072,
+      "originalPrice": 10049,
+      "originalCurrency": "DKK",
+      "source": "UCPA Danmark",
+      "bookingUrl": "https://ucpa.dk/kursus/laer-at-sta-pa-ski-pa-7-14538",
+      "level": "Beginner",
+      "lessonHours": 25,
+      "note": "2027-02-06班期标价（7天/7晚、25小时、18–40岁、多人间、自行前往）；页面有预订按钮，但未验证结账个人余位。面向零基础，可能低于当前技术水平；trendEligible=false。人民币按2026-10-22最近市场汇率1 DKK≈1.0023 CNY换算。"
+    },
+    {
+      "category": "ucpa",
+      "checkedAt": "2026-10-24T09:29:21+08:00",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-13",
+      "trendEligible": false,
+      "series": "tignes",
+      "priceCny": 9421,
+      "originalPrice": 9399,
+      "originalCurrency": "DKK",
+      "source": "UCPA Danmark",
+      "bookingUrl": "https://ucpa.dk/kursus/ski-pack-halvtid-14547",
+      "level": "Improver",
+      "lessonHours": 12,
+      "note": "2027-02-06班期标价（7天/7晚、12小时、18–40岁、多人间、自行前往）；页面有预订按钮，但未验证结账个人余位。适合稳定蓝道犁式向平行转弯过渡；trendEligible=false。人民币按2026-10-22最近市场汇率1 DKK≈1.0023 CNY换算。"
+    },
+    {
+      "category": "ucpa",
+      "checkedAt": "2026-10-24T09:29:21+08:00",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-13",
+      "trendEligible": false,
+      "series": "val_disere",
+      "priceCny": 11097,
+      "originalPrice": 1240,
+      "originalCurrency": "GBP",
+      "source": "UCPA UK / Action Outdoors",
+      "bookingUrl": "https://www.ucpa.co.uk/booking/activity/85131",
+      "level": "Beginner",
+      "lessonHours": 23,
+      "note": "2027-02-06至02-13 7晚 Beginner Full Time；官网班期£1240、9–10 sessions（Powderscape估约23h），另有旅游税£13未计入；页面出现Reservation Expired提示并要求再次检查余位，未证实当前单人可订。Powderscape的Limited标记数据截至2026-09-19，不视作今日库存；trendEligible=false。人民币按2026-10-22最近市场汇率1 GBP≈8.9489 CNY换算。"
+    },
+    {
+      "category": "ucpa",
+      "checkedAt": "2026-10-24T09:29:21+08:00",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-13",
+      "trendEligible": false,
+      "series": "val_disere",
+      "priceCny": 10363,
+      "originalPrice": 1158,
+      "originalCurrency": "GBP",
+      "source": "UCPA UK / Action Outdoors",
+      "bookingUrl": "https://www.ucpa.co.uk/booking/activity/85328",
+      "level": "Improver",
+      "lessonHours": 12,
+      "note": "2027-02-06至02-13 7晚 Ski Half Time Instruction；官网班期£1158、12小时、18–40岁，另有旅游税£13未计入；页面出现Reservation Expired提示，未证实当前单人可订。Powderscape的Limited标记数据截至2026-09-19，不视作今日库存；trendEligible=false。人民币按2026-10-22最近市场汇率1 GBP≈8.9489 CNY换算。"
     }
   ]
 }
