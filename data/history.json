@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T09:29:21+08:00",
+  "updatedAt": "2026-10-24T10:51:45+08:00",
   "currency": "CNY",
   "observations": [
     {
@@ -126,6 +126,60 @@
       "level": "Improver",
       "lessonHours": 12,
       "note": "2027-02-06至02-13 7晚 Ski Half Time Instruction；官网班期£1158、12小时、18–40岁，另有旅游税£13未计入；页面出现Reservation Expired提示，未证实当前单人可订。Powderscape的Limited标记数据截至2026-09-19，不视作今日库存；trendEligible=false。人民币按2026-10-22最近市场汇率1 GBP≈8.9489 CNY换算。"
+    },
+    {
+      "category": "flight",
+      "checkedAt": "2026-10-24T10:51:45+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com",
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "series": "shanghai",
+      "bookingUrl": "https://www.trip.com/flights/shanghai-to-geneva/airfares-sha-gva/",
+      "note": "2026-10-24核查：以UCPA 2027-02-06至02-13班期为暂定锚点（个人余位未确认），核查上海出发至日内瓦，兼查巴黎/里昂。Trip.com可公开读取的报价仅为其他日期（主要2026年10-11月），没有核实到2027-02-04/05出发且02-14/15/16返程、满足转场缓冲的具体往返报价。链接为航线路由页，非指定日期可订报价；不进入价格趋势。"
+    },
+    {
+      "category": "flight",
+      "checkedAt": "2026-10-24T10:51:45+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com",
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "series": "hangzhou",
+      "bookingUrl": "https://www.trip.com/flights/city-hgh-airport-gva/",
+      "note": "2026-10-24核查：以UCPA 2027-02-06至02-13班期为暂定锚点（个人余位未确认），核查杭州出发至日内瓦，兼查巴黎/里昂。Trip.com可公开读取的报价仅为其他日期（主要2026年10-11月），没有核实到2027-02-04/05出发且02-14/15/16返程、满足转场缓冲的具体往返报价。链接为航线路由页，非指定日期可订报价；不进入价格趋势。"
     }
   ]
 }
