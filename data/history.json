@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T09:09:24+08:00",
+  "updatedAt": "2026-10-25T10:20:01+08:00",
   "currency": "CNY",
   "observations": [
     {
@@ -260,6 +260,62 @@
       "lessonHours": 23,
       "trendEligible": false,
       "note": "2026-10-25复核：Val d'Isère Ski Full Time（23小时）产品页存在，但公开班期列表未列2027-02-06出发（有2027-01-30、2027-03-06）；不能推断春节档个人库存，也无目标周价格。"
+    },
+    {
+      "category": "flight",
+      "series": "shanghai",
+      "checkedAt": "2026-10-25T10:20:01+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com",
+      "bookingUrl": null,
+      "sourcePageUrl": "https://www.trip.com/flights/shanghai-to-geneva/airfares-sha-gva/",
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-25核查：以覆盖2027春节的UCPA 2/6–2/13班期为暂定锚点（个人库存尚未核实），比较上海/杭州经日内瓦GVA、巴黎CDG、里昂LYS，目标去程2/4–2/5、欧洲返程2/14–2/16。Trip.com公开航线页及精确日期搜索均未检索到对应日期组合的可验证含税往返成交报价；可见报价均为其他日期或历史均价。无具体日期预订深链，bookingUrl=null；不构成趋势点。"
+    },
+    {
+      "category": "flight",
+      "series": "hangzhou",
+      "checkedAt": "2026-10-25T10:20:01+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com",
+      "bookingUrl": null,
+      "sourcePageUrl": "https://www.trip.com/flights/city-hgh-airport-gva/",
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-25核查：以覆盖2027春节的UCPA 2/6–2/13班期为暂定锚点（个人库存尚未核实），比较上海/杭州经日内瓦GVA、巴黎CDG、里昂LYS，目标去程2/4–2/5、欧洲返程2/14–2/16。Trip.com公开航线页及精确日期搜索均未检索到对应日期组合的可验证含税往返成交报价；可见报价均为其他日期或历史均价。无具体日期预订深链，bookingUrl=null；不构成趋势点。"
     }
   ]
 }
