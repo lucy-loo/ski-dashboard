@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T10:51:45+08:00",
+  "updatedAt": "2026-10-25T09:09:24+08:00",
   "currency": "CNY",
   "observations": [
     {
@@ -180,6 +180,86 @@
       "series": "hangzhou",
       "bookingUrl": "https://www.trip.com/flights/city-hgh-airport-gva/",
       "note": "2026-10-24核查：以UCPA 2027-02-06至02-13班期为暂定锚点（个人余位未确认），核查杭州出发至日内瓦，兼查巴黎/里昂。Trip.com可公开读取的报价仅为其他日期（主要2026年10-11月），没有核实到2027-02-04/05出发且02-14/15/16返程、满足转场缓冲的具体往返报价。链接为航线路由页，非指定日期可订报价；不进入价格趋势。"
+    },
+    {
+      "category": "ucpa",
+      "series": "tignes",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-13",
+      "checkedAt": "2026-10-25T09:09:24+08:00",
+      "priceCny": 10053,
+      "originalPrice": 10049,
+      "originalCurrency": "DKK",
+      "source": "UCPA Danmark",
+      "bookingUrl": "https://ucpa.dk/kursus/laer-at-sta-pa-ski-pa-7-14538",
+      "level": "Beginner",
+      "lessonHours": 25,
+      "trendEligible": false,
+      "note": "2026-10-25复核：2月6日出发、7晚、18–40岁、多人间自行前往标价10,049 DKK，预订按钮可见但结账链接不可读取，无法确认单人余位；课程面向零基础，低于当前稳定犁式下蓝道水平。人民币参考2026-10-23 DKK/CNY≈1.0004，非实时成交价。"
+    },
+    {
+      "category": "ucpa",
+      "series": "tignes",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-13",
+      "checkedAt": "2026-10-25T09:09:24+08:00",
+      "priceCny": 9403,
+      "originalPrice": 9399,
+      "originalCurrency": "DKK",
+      "source": "UCPA Danmark",
+      "bookingUrl": "https://ucpa.dk/kursus/ski-pack-halvtid-14547",
+      "level": "Improver",
+      "lessonHours": 12,
+      "trendEligible": false,
+      "note": "2026-10-25复核：2月6日出发、7晚、18–40岁、多人间自行前往标价9,399 DKK，4–5节课约12小时；水平较匹配。预订按钮可见但结账链接不可读取，未证实单人余位；人民币参考2026-10-23 DKK/CNY≈1.0004。"
+    },
+    {
+      "category": "ucpa",
+      "series": "val_disere",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-13",
+      "checkedAt": "2026-10-25T09:09:24+08:00",
+      "priceCny": 11097,
+      "originalPrice": 1240,
+      "originalCurrency": "GBP",
+      "source": "Powderscape / UCPA UK",
+      "bookingUrl": "https://www.ucpa.co.uk/booking/activity/85131",
+      "level": "Beginner",
+      "lessonHours": 23,
+      "trendEligible": false,
+      "note": "2026-10-25复核：Powderscape仍列2027-02-06至02-13 Beginner Full Time 约23小时£1,240，但数据日期明确截至2026-09-19；UCPA UK预订页无法验证实时库存，不能把Limited视为今日余位。旅游税/交通另计；人民币按2026-10-23 GBP/CNY≈8.949。"
+    },
+    {
+      "category": "ucpa",
+      "series": "val_disere",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-13",
+      "checkedAt": "2026-10-25T09:09:24+08:00",
+      "priceCny": 10363,
+      "originalPrice": 1158,
+      "originalCurrency": "GBP",
+      "source": "Powderscape / UCPA UK",
+      "bookingUrl": "https://www.ucpa.co.uk/booking/activity/85328",
+      "level": "Improver",
+      "lessonHours": 12,
+      "trendEligible": false,
+      "note": "2026-10-25复核：Powderscape仍列2027-02-06至02-13 Improver Half Time 约12小时£1,158，但数据日期明确截至2026-09-19；UCPA UK预订页无法验证实时库存，不能把Limited视为今日余位。旅游税/交通另计；人民币按2026-10-23 GBP/CNY≈8.949。"
+    },
+    {
+      "category": "ucpa",
+      "series": "val_disere",
+      "startDate": null,
+      "endDate": null,
+      "checkedAt": "2026-10-25T09:09:24+08:00",
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "DKK",
+      "source": "UCPA Danmark",
+      "bookingUrl": "https://ucpa.dk/kursus/skipak-fuld-tid-14000",
+      "level": "Improver",
+      "lessonHours": 23,
+      "trendEligible": false,
+      "note": "2026-10-25复核：Val d'Isère Ski Full Time（23小时）产品页存在，但公开班期列表未列2027-02-06出发（有2027-01-30、2027-03-06）；不能推断春节档个人库存，也无目标周价格。"
     }
   ]
 }
