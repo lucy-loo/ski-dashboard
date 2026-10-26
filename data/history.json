@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T09:09:02+08:00",
+  "updatedAt": "2026-10-26T10:27:14+08:00",
   "currency": "CNY",
   "observations": [
     {
@@ -430,6 +430,134 @@
       "level": "Improver",
       "lessonHours": 23,
       "note": "2026-10-26复核：Val d'Isère Ski Full Time 23小时产品页存在，但公开班期列表未显示2027-02-06出发的目标周课程和对应价格；不等于春节班期有个人库存。"
+    },
+    {
+      "category": "flight",
+      "series": "shanghai",
+      "checkedAt": "2026-10-26T10:27:14+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip public route pages and date-specific web searches",
+      "bookingUrl": null,
+      "sourcePageUrls": [
+        "https://www.trip.com/flights/shanghai-to-geneva/airfares-sha-gva/",
+        "https://www.trip.com/flights/shanghai-to-paris/airfares-sha-par/",
+        "https://www.trip.com/flights/shanghai-to-lyon/airfares-sha-lys/"
+      ],
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-26核查：按春节UCPA 2027-02-06至02-13课程（个人可订库存尚未证实）寻找课程前抵达、课程后返航并留转场缓冲的往返经济舱。检查上海PVG/SHA往返日内瓦GVA、巴黎CDG、里昂LYS的Trip.com公开航线报价和针对目标日期的网页搜索；可见具体报价主要为2026年10–12月其他日期或过去12个月统计均价，未取得指定2027年2月日期组合的可核实含税往返价格、实际到达时间、转机/行李细则。公开航线页面不是目标日期报价，bookingUrl=null；不得用于趋势或好价判断。"
+    },
+    {
+      "category": "flight",
+      "series": "shanghai",
+      "checkedAt": "2026-10-26T10:27:14+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-11",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip public route pages and date-specific web searches",
+      "bookingUrl": null,
+      "sourcePageUrls": [
+        "https://www.trip.com/flights/shanghai-to-geneva/airfares-sha-gva/",
+        "https://www.trip.com/flights/shanghai-to-paris/airfares-sha-par/",
+        "https://www.trip.com/flights/shanghai-to-lyon/airfares-sha-lys/"
+      ],
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-26核查：按春节UCPA 2027-02-06至02-11课程（个人可订库存尚未证实）寻找课程前抵达、课程后返航并留转场缓冲的往返经济舱。检查上海PVG/SHA往返日内瓦GVA、巴黎CDG、里昂LYS的Trip.com公开航线报价和针对目标日期的网页搜索；可见具体报价主要为2026年10–12月其他日期或过去12个月统计均价，未取得指定2027年2月日期组合的可核实含税往返价格、实际到达时间、转机/行李细则。公开航线页面不是目标日期报价，bookingUrl=null；不得用于趋势或好价判断。"
+    },
+    {
+      "category": "flight",
+      "series": "hangzhou",
+      "checkedAt": "2026-10-26T10:27:14+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip public route pages and date-specific web searches",
+      "bookingUrl": null,
+      "sourcePageUrls": [
+        "https://www.trip.com/flights/city-hgh-airport-gva/",
+        "https://www.trip.com/flights/hangzhou-to-paris/airfares-hgh-par/",
+        "https://hk.trip.com/flights/hangzhou-to-lyon/airfares-hgh-lys/"
+      ],
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-26核查：按春节UCPA 2027-02-06至02-13课程（个人可订库存尚未证实）寻找课程前抵达、课程后返航并留转场缓冲的往返经济舱。检查杭州HGH往返日内瓦GVA、巴黎CDG、里昂LYS的Trip.com公开航线报价和针对目标日期的网页搜索；可见具体报价主要为2026年10–12月其他日期或过去12个月统计均价，未取得指定2027年2月日期组合的可核实含税往返价格、实际到达时间、转机/行李细则。公开航线页面不是目标日期报价，bookingUrl=null；不得用于趋势或好价判断。"
+    },
+    {
+      "category": "flight",
+      "series": "hangzhou",
+      "checkedAt": "2026-10-26T10:27:14+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-11",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip public route pages and date-specific web searches",
+      "bookingUrl": null,
+      "sourcePageUrls": [
+        "https://www.trip.com/flights/city-hgh-airport-gva/",
+        "https://www.trip.com/flights/hangzhou-to-paris/airfares-hgh-par/",
+        "https://hk.trip.com/flights/hangzhou-to-lyon/airfares-hgh-lys/"
+      ],
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-26核查：按春节UCPA 2027-02-06至02-11课程（个人可订库存尚未证实）寻找课程前抵达、课程后返航并留转场缓冲的往返经济舱。检查杭州HGH往返日内瓦GVA、巴黎CDG、里昂LYS的Trip.com公开航线报价和针对目标日期的网页搜索；可见具体报价主要为2026年10–12月其他日期或过去12个月统计均价，未取得指定2027年2月日期组合的可核实含税往返价格、实际到达时间、转机/行李细则。公开航线页面不是目标日期报价，bookingUrl=null；不得用于趋势或好价判断。"
     }
   ]
 }
