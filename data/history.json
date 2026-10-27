@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T09:07:24+08:00",
+  "updatedAt": "2026-10-27T10:22:17+08:00",
   "currency": "CNY",
   "observations": [
     {
@@ -672,6 +672,138 @@
       "lessonHours": 23,
       "trendEligible": false,
       "note": "2026-10-27核查：Val d’Isère 23h Full-time 产品页存在，公开出发日期有1/30和3/6但无2/6目标周；没有该班期的标价和个人库存，不得把其他日期起价用于趋势。"
+    },
+    {
+      "category": "flight",
+      "checkedAt": "2026-10-27T10:22:17+08:00",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip route pages and date-specific web search",
+      "bookingUrl": null,
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "series": "shanghai",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "sourcePageUrls": [
+        "https://www.trip.com/flights/city-sha-airport-gva/",
+        "https://www.trip.com/flights/shanghai-to-paris/airfares-sha-par/",
+        "https://www.trip.com/flights/city-sha-airport-lys/"
+      ],
+      "note": "2026-10-27 10:22(+08)复核：以UCPA 2027-02-06至2027-02-13春节班期为暂定锚点（个人可订库存尚未核实），检索上海PVG/SHA往返日内瓦GVA、巴黎CDG、里昂LYS；考虑去程2/3–2/5、返程2027-02-14/2027-02-15/2027-02-16，但只有抵达日期早于开课且预留机场至雪场交通时间的实际航班才合格。Trip.com公开航线页仅展示其他日期（主要2026年10–12月）的票价和航班；按2027年2月目标日期组合搜索未找到可核验的含税往返报价、抵达时间、转机次数、行李额或实际可订深链。bookingUrl=null；priceCny=null；trendEligible=false；targetDatesMatched=false。"
+    },
+    {
+      "category": "flight",
+      "checkedAt": "2026-10-27T10:22:17+08:00",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip route pages and date-specific web search",
+      "bookingUrl": null,
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "series": "hangzhou",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "sourcePageUrls": [
+        "https://www.trip.com/flights/city-hgh-airport-gva/",
+        "https://www.trip.com/flights/hangzhou-to-paris/airfares-hgh-par/",
+        "https://hk.trip.com/flights/hangzhou-to-lyon/airfares-hgh-lys/"
+      ],
+      "note": "2026-10-27 10:22(+08)复核：以UCPA 2027-02-06至2027-02-13春节班期为暂定锚点（个人可订库存尚未核实），检索杭州HGH往返日内瓦GVA、巴黎CDG、里昂LYS；考虑去程2/3–2/5、返程2027-02-14/2027-02-15/2027-02-16，但只有抵达日期早于开课且预留机场至雪场交通时间的实际航班才合格。Trip.com公开航线页仅展示其他日期（主要2026年10–12月）的票价和航班；按2027年2月目标日期组合搜索未找到可核验的含税往返报价、抵达时间、转机次数、行李额或实际可订深链。bookingUrl=null；priceCny=null；trendEligible=false；targetDatesMatched=false。"
+    },
+    {
+      "category": "flight",
+      "checkedAt": "2026-10-27T10:22:17+08:00",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip route pages and date-specific web search",
+      "bookingUrl": null,
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "series": "shanghai",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-11",
+      "searchedReturnDates": [
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14"
+      ],
+      "sourcePageUrls": [
+        "https://www.trip.com/flights/city-sha-airport-gva/",
+        "https://www.trip.com/flights/shanghai-to-paris/airfares-sha-par/",
+        "https://www.trip.com/flights/city-sha-airport-lys/"
+      ],
+      "note": "2026-10-27 10:22(+08)复核：以UCPA 2027-02-06至2027-02-11春节班期为暂定锚点（个人可订库存尚未核实），检索上海PVG/SHA往返日内瓦GVA、巴黎CDG、里昂LYS；考虑去程2/3–2/5、返程2027-02-12/2027-02-13/2027-02-14，但只有抵达日期早于开课且预留机场至雪场交通时间的实际航班才合格。Trip.com公开航线页仅展示其他日期（主要2026年10–12月）的票价和航班；按2027年2月目标日期组合搜索未找到可核验的含税往返报价、抵达时间、转机次数、行李额或实际可订深链。bookingUrl=null；priceCny=null；trendEligible=false；targetDatesMatched=false。"
+    },
+    {
+      "category": "flight",
+      "checkedAt": "2026-10-27T10:22:17+08:00",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip route pages and date-specific web search",
+      "bookingUrl": null,
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "series": "hangzhou",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-11",
+      "searchedReturnDates": [
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14"
+      ],
+      "sourcePageUrls": [
+        "https://www.trip.com/flights/city-hgh-airport-gva/",
+        "https://www.trip.com/flights/hangzhou-to-paris/airfares-hgh-par/",
+        "https://hk.trip.com/flights/hangzhou-to-lyon/airfares-hgh-lys/"
+      ],
+      "note": "2026-10-27 10:22(+08)复核：以UCPA 2027-02-06至2027-02-11春节班期为暂定锚点（个人可订库存尚未核实），检索杭州HGH往返日内瓦GVA、巴黎CDG、里昂LYS；考虑去程2/3–2/5、返程2027-02-12/2027-02-13/2027-02-14，但只有抵达日期早于开课且预留机场至雪场交通时间的实际航班才合格。Trip.com公开航线页仅展示其他日期（主要2026年10–12月）的票价和航班；按2027年2月目标日期组合搜索未找到可核验的含税往返报价、抵达时间、转机次数、行李额或实际可订深链。bookingUrl=null；priceCny=null；trendEligible=false；targetDatesMatched=false。"
     }
   ]
 }
