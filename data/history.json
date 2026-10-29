@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T09:22:24+08:00",
+  "updatedAt": "2026-10-29T10:37:29+08:00",
   "currency": "CNY",
   "observations": [
     {
@@ -1189,6 +1189,144 @@
       "lessonHours": 23,
       "trendEligible": false,
       "note": "2026-10-29复核：Val d’Isère 23小时Full-time 8-9节、适合Improver的产品页存在；公开班期未列2027-02-06出发，未确认目标周个人库存或价格；startDate/endDate留空，不用其他日期起价。"
+    },
+    {
+      "category": "flight",
+      "series": "shanghai",
+      "checkedAt": "2026-10-29T10:37:29+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip public route pages and target-date search URLs (real-time results unavailable)",
+      "bookingUrl": "https://www.trip.com/flights/showfarefirst?dcity=pvg&acity=gva&ddate=2027-02-04&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+      "searchUrls": [
+        "https://www.trip.com/flights/showfarefirst?dcity=pvg&acity=gva&ddate=2027-02-04&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=pvg&acity=lys&ddate=2027-02-04&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=pvg&acity=cdg&ddate=2027-02-03&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=sha&acity=gva&ddate=2027-02-04&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=sha&acity=lys&ddate=2027-02-04&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=sha&acity=cdg&ddate=2027-02-03&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY"
+      ],
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-29复核：以覆盖春节的UCPA课程2027-02-06至2027-02-13为候选锚点（该班期个人可订库存仍未最终确认）；从课程日期推导去程搜索2027-02-03/2027-02-04/2027-02-05、返程2027-02-14/2027-02-15/2027-02-16，比较上海PVG/SHA往返日内瓦GVA、里昂LYS、巴黎CDG，日内瓦优先。Trip.com可读取的航线公开页面显示的具体往返报价仍对应2026年其他日期（如2026年10至12月），未见可核实的2027年2月目标日期含税往返组合。带日期的Trip.com搜索入口本轮无法读取实时结果，故无法确认往返价格、航班抵达/起飞时刻、转机次数、总旅行时间、托运行李和机场至雪场的转场余量。bookingUrl/searchUrls仅为指定日期的搜索深链接，并非已核实航班；实际flightDepartureDate/flightReturnDate及priceCny留空，targetDatesMatched=false，trendEligible=false。巴黎落地需更长转场，不得仅凭日期判定可行。"
+    },
+    {
+      "category": "flight",
+      "series": "hangzhou",
+      "checkedAt": "2026-10-29T10:37:29+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-13",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip public route pages and target-date search URLs (real-time results unavailable)",
+      "bookingUrl": "https://www.trip.com/flights/showfarefirst?dcity=hgh&acity=gva&ddate=2027-02-04&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+      "searchUrls": [
+        "https://www.trip.com/flights/showfarefirst?dcity=hgh&acity=gva&ddate=2027-02-04&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=hgh&acity=lys&ddate=2027-02-04&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=hgh&acity=cdg&ddate=2027-02-03&rdate=2027-02-15&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY"
+      ],
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-16"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-29复核：以覆盖春节的UCPA课程2027-02-06至2027-02-13为候选锚点（该班期个人可订库存仍未最终确认）；从课程日期推导去程搜索2027-02-03/2027-02-04/2027-02-05、返程2027-02-14/2027-02-15/2027-02-16，比较杭州HGH往返日内瓦GVA、里昂LYS、巴黎CDG，日内瓦优先。Trip.com可读取的航线公开页面显示的具体往返报价仍对应2026年其他日期（如2026年10至12月），未见可核实的2027年2月目标日期含税往返组合。带日期的Trip.com搜索入口本轮无法读取实时结果，故无法确认往返价格、航班抵达/起飞时刻、转机次数、总旅行时间、托运行李和机场至雪场的转场余量。bookingUrl/searchUrls仅为指定日期的搜索深链接，并非已核实航班；实际flightDepartureDate/flightReturnDate及priceCny留空，targetDatesMatched=false，trendEligible=false。巴黎落地需更长转场，不得仅凭日期判定可行。"
+    },
+    {
+      "category": "flight",
+      "series": "shanghai",
+      "checkedAt": "2026-10-29T10:37:29+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-11",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip public route pages and target-date search URLs (real-time results unavailable)",
+      "bookingUrl": "https://www.trip.com/flights/showfarefirst?dcity=pvg&acity=gva&ddate=2027-02-04&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+      "searchUrls": [
+        "https://www.trip.com/flights/showfarefirst?dcity=pvg&acity=gva&ddate=2027-02-04&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=pvg&acity=lys&ddate=2027-02-04&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=pvg&acity=cdg&ddate=2027-02-03&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=sha&acity=gva&ddate=2027-02-04&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=sha&acity=lys&ddate=2027-02-04&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=sha&acity=cdg&ddate=2027-02-03&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY"
+      ],
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-29复核：以覆盖春节的UCPA课程2027-02-06至2027-02-11为候选锚点（该班期个人可订库存仍未最终确认）；从课程日期推导去程搜索2027-02-03/2027-02-04/2027-02-05、返程2027-02-12/2027-02-13/2027-02-14，比较上海PVG/SHA往返日内瓦GVA、里昂LYS、巴黎CDG，日内瓦优先。Trip.com可读取的航线公开页面显示的具体往返报价仍对应2026年其他日期（如2026年10至12月），未见可核实的2027年2月目标日期含税往返组合。带日期的Trip.com搜索入口本轮无法读取实时结果，故无法确认往返价格、航班抵达/起飞时刻、转机次数、总旅行时间、托运行李和机场至雪场的转场余量。bookingUrl/searchUrls仅为指定日期的搜索深链接，并非已核实航班；实际flightDepartureDate/flightReturnDate及priceCny留空，targetDatesMatched=false，trendEligible=false。巴黎落地需更长转场，不得仅凭日期判定可行。"
+    },
+    {
+      "category": "flight",
+      "series": "hangzhou",
+      "checkedAt": "2026-10-29T10:37:29+08:00",
+      "courseStartDate": "2027-02-06",
+      "courseEndDate": "2027-02-11",
+      "flightDepartureDate": null,
+      "flightReturnDate": null,
+      "priceCny": null,
+      "originalPrice": null,
+      "originalCurrency": "CNY",
+      "source": "Trip.com / Ctrip public route pages and target-date search URLs (real-time results unavailable)",
+      "bookingUrl": "https://www.trip.com/flights/showfarefirst?dcity=hgh&acity=gva&ddate=2027-02-04&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+      "searchUrls": [
+        "https://www.trip.com/flights/showfarefirst?dcity=hgh&acity=gva&ddate=2027-02-04&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=hgh&acity=lys&ddate=2027-02-04&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY",
+        "https://www.trip.com/flights/showfarefirst?dcity=hgh&acity=cdg&ddate=2027-02-03&rdate=2027-02-13&triptype=rt&class=y&quantity=1&locale=zh-CN&curr=CNY"
+      ],
+      "trendEligible": false,
+      "targetDatesMatched": false,
+      "searchedDepartureDates": [
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05"
+      ],
+      "searchedReturnDates": [
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14"
+      ],
+      "observationType": "no_verified_date_specific_fare",
+      "note": "2026-10-29复核：以覆盖春节的UCPA课程2027-02-06至2027-02-11为候选锚点（该班期个人可订库存仍未最终确认）；从课程日期推导去程搜索2027-02-03/2027-02-04/2027-02-05、返程2027-02-12/2027-02-13/2027-02-14，比较杭州HGH往返日内瓦GVA、里昂LYS、巴黎CDG，日内瓦优先。Trip.com可读取的航线公开页面显示的具体往返报价仍对应2026年其他日期（如2026年10至12月），未见可核实的2027年2月目标日期含税往返组合。带日期的Trip.com搜索入口本轮无法读取实时结果，故无法确认往返价格、航班抵达/起飞时刻、转机次数、总旅行时间、托运行李和机场至雪场的转场余量。bookingUrl/searchUrls仅为指定日期的搜索深链接，并非已核实航班；实际flightDepartureDate/flightReturnDate及priceCny留空，targetDatesMatched=false，trendEligible=false。巴黎落地需更长转场，不得仅凭日期判定可行。"
     }
   ]
 }
